@@ -9,6 +9,10 @@ def home(request):
             ["Baseball", 29, 0, 29],
             ["Baseball", 29, 0, 29],
             ["Baseball", 29, 0, 29],
+            ["Baseball", 29, 0, 29],
+            ["Baseball", 29, 0, 29],
+            ["Baseball", 29, 0, 29],
+            ["Baseball", 29, 0, 29],
         ]
     }
     return render(request, 'index.html', context)
